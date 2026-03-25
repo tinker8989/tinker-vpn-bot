@@ -931,6 +931,24 @@ def kb_menu_main():
         [
             InlineKeyboardButton(text="📢 Наш канал", url=TG_CHANNEL),
             InlineKeyboardButton(text="🆘 Поддержка", url=TG_CHANNEL)
+        ],
+        [
+            InlineKeyboardButton(
+                text="📄 Пользовательское соглашение",
+                url="https://telegra.ph/Polzovatelskoe-soglashenie-08-15-10"
+            )
+        ],
+        [
+            InlineKeyboardButton(
+                text="🔐 Политика конфиденциальности",
+                url="https://telegra.ph/Politika-konfidencialnosti-08-15-17"
+            )
+        ],
+        [
+            InlineKeyboardButton(
+                text="⭐ Отзывы",
+                url="https://t.me/otzivi8989"
+            )
         ]
     ])
 
