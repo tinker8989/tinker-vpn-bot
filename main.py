@@ -930,7 +930,7 @@ def kb_menu_main():
         ],
         [
             InlineKeyboardButton(text="📢 Наш канал", url=TG_CHANNEL),
-            InlineKeyboardButton(text="🆘 Поддержка", url=TG_CHANNEL)
+            InlineKeyboardButton(text="🆘 Поддержка", "https://t.me/zzztruee")
         ],
         [
             InlineKeyboardButton(
